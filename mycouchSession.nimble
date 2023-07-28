@@ -11,3 +11,4 @@ srcDir        = "src"
 
 requires "nim >= 1.6.14"
 requires "https://github.com/lost-rob0t/mycouch.git"
+requires "prologue"
